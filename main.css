@@ -1,0 +1,304 @@
+body {
+    background-color: #040714;
+}
+
+.disLogoOne {
+    position: absolute;
+    top: 0px;
+    height: 60px;
+    left: 50px;
+}
+
+.log {
+    color: #f9f9f9;
+    font: 15px Arial, Helvetica, sans-serif;
+    background-color: rgba(0,0,0,0.6);
+    padding: 0px 16px;
+    margin-top: 15px;
+    right: 40px;
+    position: fixed;
+    border-radius: 8px;
+    height: 45px;
+    border: 1px solid #f9f9f9;
+    width: 100px;
+    
+}
+
+.sign {
+    color: #f9f9f9;
+    font: 15px Arial, Helvetica, sans-serif;
+    background-color: #0072D2;
+    margin: 0px 10px 0px 0px;
+    padding: 0px 16px;
+    position: fixed;
+    right: 150px;
+    top: 23px;
+    border-radius: 8px;
+    height: 50px;
+    width: 150px;
+}
+
+.sign:hover {
+    box-shadow: 0 12px 16px 0 rgba (0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.log:hover {
+    background-color: #f9f9f9;
+    color: black;
+}
+
+#stream {
+    position: relative;
+    left: 30px;
+    height: 1000px;
+    left: 0px;
+}
+
+.coolPic {
+    position: absolute;
+    right: 0px;
+    height: 850px;
+}
+
+.streamImg {
+    position: absolute;
+    left: 30px;
+    top: 160px;
+    height: 150px;
+}
+
+ .get {
+     position: absolute;
+     top: 340px;
+     left: 30px;
+     color: #f9f9f9;
+     background-color: #0072D2;
+     height: 70px;
+     width: 650px;
+     cursor: pointer;
+     border-radius: 8px;
+ }
+
+ .or {
+     position: absolute;
+     top: 455px;
+     left: 75px;
+     font: 20px Avenir-Roman, sans-serif;
+     text-decoration: underline;
+     color: #cacaca;
+     background-color: transparent;
+     border: none;
+     background-repeat: no-repeat;
+     cursor: pointer;
+     
+ }
+
+ .img {
+     position: absolute;
+     top: 550px;
+     left: 50px;
+     color: #f9f9f9;
+     height: 30px;
+ }
+
+ .downArrow {
+     position: absolute;
+     top: 950px;
+     left: 50px;
+ }
+
+ #belowFold {
+     position: absolute;
+     top: 600px;
+     margin: 5%;
+     padding: 60px;
+     height: 900px;
+     width: 100%;
+     left: -100px;
+     margin-top: 22%;
+ }
+
+ #legal {
+    position: absolute;
+    left: 0;
+    top: 250%;
+    height: 20%;
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    margin-top: 70%;
+ }
+
+ #bar {
+    position: fixed;
+ }
+
+
+ .dis {
+     position: absolute;
+     left: 100px;
+     font-size: 30px;
+ }
+
+ ul {
+     list-style: none;
+ }
+
+ #welome {
+     position: static;
+     border: 4px solid black;
+     height: 100%;
+     width: 100%;
+ }
+
+
+ .imgArrow {
+     color: #f9f9f9;
+     position: absolute;
+     font-size: 50px;
+     top: 550px;
+     transform: rotate(45deg);
+     -webkit-transform: rotate(45deg);
+ }
+
+ .starWars {
+     position: absolute;
+     height: 650px;
+     left: 0px;
+     top: 0px;
+
+ }
+
+ .endLess {
+     position: absolute;
+     right: 400Px;
+     color: #f9f9f9;
+     font: 45px Avenir-Heavy, sans-serif;
+     width: 650px;
+     top: 125px;
+ }
+
+ .theBest {
+     position: absolute;
+     left: 985px;
+     top: 300px;
+     color: #cacaca;
+     font: 20px Avenir-Roman, sans-serif;
+     width: 750px;
+ }
+
+ .newDis {
+     position: absolute;
+     right: 500px;
+     color: #f9f9f9;
+     font: 45px Avenir-Heavy, sans-serif;
+     top: 850px;
+     left: 150px;
+ }
+
+ .aGrowing {
+     position: absolute;
+     right: 550px;
+     color: #cacaca;
+     font: 20px Avenir-Roman, sans-serif;
+     top: 950px;
+     left: 150px;
+     width: 720px;
+ }
+
+ .forky {
+     position: absolute;
+     top: 650px;
+     right: 200px;
+     height: 650px;
+     background-color: transparent;
+ }
+
+ #sectionTwo {
+     position: absolute;
+     top: 150%;
+     margin: 5%;
+     padding: 60px;
+     height: 700px;
+     width: 100%;
+     left: -100px;
+     margin-top: 45%;
+ }
+
+ .rougeOne {
+     position: absolute;
+     height: 650px;
+ }
+
+ .download {
+     position: absolute;
+     left: 1065px;
+     color: #f9f9f9;
+     font: 45px Avenir-Heavy, sans-serif;
+     top: 250px;
+ }
+
+ .watch {
+     position: absolute;
+     left: 1065px;
+     top: 350px;
+     color: #cacaca;
+     font: 20px Avenir-Roman, sans-serif;
+     width: 750px;
+ }
+
+.disneyHulu {
+    position: absolute;
+    right: 500px;
+    color: #f9f9f9;
+    top: 950px;
+    left: 150px;
+    font: 45px Avenir-Heavy, sans-serif;
+    width: 750px;
+}
+
+ .bundle {
+     position: absolute;
+     right: 500px;
+     color: #cacaca;
+     font: 20px Avenir-Roman, sans-serif;
+     top: 1100px;
+     left: 150px;
+     width: 750px;
+ }
+
+.huluDis {
+    position: absolute;
+    top: 900px;
+    right: 150px;
+    height: 500px;
+}
+
+.disLogo {
+    position: absolute;
+    top: 10%;
+    height: 50px;
+    right: 50%;
+}
+
+.legalButtons {
+    position: absolute;
+    top: 40%;
+    right: 15%;
+}
+
+.privacy, .subscribe, .your, .doNot, .child, .help, .closed, .supported, .gift, .about, .partner, .interest {
+    color: #cacaca;
+    background-color: transparent;
+    border: none;
+    font: 12px Avenir-Roman, sans-serif;
+}
+
+.disLegal {
+    position: absolute;
+    top: 60%;
+    right: 47%;
+    font: 12px Avenir-Roman, sans-serif;
+    color: #cacaca;
+}
